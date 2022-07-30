@@ -29,7 +29,7 @@
 # puts arr2.sort
 # ! sắp xếp cách khác sort {|a,b| a <=> b}
 
-# ! đảo ngc mảng: reserve
+# ! đảo ngc mảng: reverse
 # puts arr.reverse
 # ! phần tử trùng nhau thì xóa bớt 1: uniq
 # ! duyệt qua từng phần tử mảng và in ra: arrs.each do |arr| hoặc arrs.each {|arr| *puts...*}
