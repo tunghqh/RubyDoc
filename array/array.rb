@@ -42,3 +42,4 @@
 # ! kiểm tra từng phần tử trong mảng vs giá trị bất và lấy ra: arrs.select! {|arr| > ...} => newarr
 # ! kiểm tra từng phần tử trong mảng vs giá trị bất và lấy ra các phần tử còn lại: arrs.reject? {|arr| > ...} => newarr
 # ! duyệt qua từng phần tử: arrs.map {|arr| *logic*}
+# ! lấy ra số phần tử ngẫu nhiên trong mảng: sample
